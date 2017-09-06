@@ -5,7 +5,7 @@
 ##### Hello there, long time not coding, not uploading anything here so i decided to practice my hands and share the result with you and here it is.
 
 
-This is a simple math parser, the code do explain it self so i wont talk about it.
+This is a simple math parser, the code do explain itself so i wont talk about it.
 
 *TODO:*
 
