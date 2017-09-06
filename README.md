@@ -17,6 +17,8 @@ Division : done
 
 Multiplication : done
 
+Floating-point numbers implementation : done
+
 Parentheses ; not yet
 
 Error handling : not yet
