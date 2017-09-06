@@ -1,8 +1,7 @@
-
-
-
-
-
+/*
+    writtern by : Mohamed ElSayed
+    m.elsayed4420@gmail.com
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
